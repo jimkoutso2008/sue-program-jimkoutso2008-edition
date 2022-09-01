@@ -1,0 +1,10 @@
+c:\users\jim\documents\visual studio 2010\Projects\sue program jimkoutso2008 edition v0.6.9\sue program jimkoutso2008 edition v0.6.9\bin\Release\sue program jimkoutso2008 edition v0.6.9.exe
+c:\users\jim\documents\visual studio 2010\Projects\sue program jimkoutso2008 edition v0.6.9\sue program jimkoutso2008 edition v0.6.9\bin\Release\sue program jimkoutso2008 edition v0.6.9.pdb
+c:\users\jim\documents\visual studio 2010\Projects\sue program jimkoutso2008 edition v0.6.9\sue program jimkoutso2008 edition v0.6.9\bin\Release\sue program jimkoutso2008 edition v0.6.9.xml
+c:\users\jim\documents\visual studio 2010\Projects\sue program jimkoutso2008 edition v0.6.9\sue program jimkoutso2008 edition v0.6.9\obj\x86\Release\sue_program_jimkoutso2008_edition_v0._6._9.Form1.resources
+c:\users\jim\documents\visual studio 2010\Projects\sue program jimkoutso2008 edition v0.6.9\sue program jimkoutso2008 edition v0.6.9\obj\x86\Release\sue_program_jimkoutso2008_edition_v0._6._9.Resources.resources
+c:\users\jim\documents\visual studio 2010\Projects\sue program jimkoutso2008 edition v0.6.9\sue program jimkoutso2008 edition v0.6.9\obj\x86\Release\sue program jimkoutso2008 edition v0.6.9.vbproj.GenerateResource.Cache
+c:\users\jim\documents\visual studio 2010\Projects\sue program jimkoutso2008 edition v0.6.9\sue program jimkoutso2008 edition v0.6.9\obj\x86\Release\sue program jimkoutso2008 edition v0.6.9.exe
+c:\users\jim\documents\visual studio 2010\Projects\sue program jimkoutso2008 edition v0.6.9\sue program jimkoutso2008 edition v0.6.9\obj\x86\Release\sue program jimkoutso2008 edition v0.6.9.xml
+c:\users\jim\documents\visual studio 2010\Projects\sue program jimkoutso2008 edition v0.6.9\sue program jimkoutso2008 edition v0.6.9\obj\x86\Release\sue program jimkoutso2008 edition v0.6.9.pdb
+C:\Users\Jim\documents\visual studio 2010\Projects\sue program jimkoutso2008 edition v0.6.9\sue program jimkoutso2008 edition v0.6.9\obj\x86\Release\sue_program_jimkoutso2008_edition_v0._6._9.Form2.resources
